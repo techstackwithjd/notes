@@ -1,5 +1,5 @@
 # notes
-
+***
  sudo su # switch to root user with curret user home dir
  sudo su - # switch to root user with root hom dir
  sudo su  tom # swithc to tom but current user home Dir
