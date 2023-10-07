@@ -9,5 +9,5 @@
  * su tom #switch to tom but with current user home Dir  and ask for tom password
  * su - tom #switch to tom but with tom user home Dir  and ask for tom password
 
-** Nginx: https://www.youtube.com/watch?v=7VAI73roXaY
+* Nginx: https://www.youtube.com/watch?v=7VAI73roXaY
 * https://git-scm.com/book/en/v2/Git-Branching-Rebasing : git material
