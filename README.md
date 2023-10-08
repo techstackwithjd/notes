@@ -16,6 +16,7 @@
    Article how the SSH works
 *  To-DO: https://www.youtube.com/watch?v=ZfjpWOC5eoE
 *  Supporting to above To-Do: https://www.youtube.com/watch?v=ZGKaSboqKzk&t=307s
+*  How to amange secrest in Terraform : https://www.youtube.com/watch?v=3N0tGKwvBdA
   
 
 
