@@ -12,6 +12,9 @@
 *  Nginx: https://www.youtube.com/watch?v=7VAI73roXaY
 *  git material: https://git-scm.com/book/en/v2/Git-Branching-Rebasing
 *  Kubernetes service type: https://www.baeldung.com/ops/kubernetes-service-types
+*  https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
+   Article how the SSH works
+*  
 
 
 
