@@ -15,6 +15,8 @@
 *  https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
    Article how the SSH works
 *  To-DO: https://www.youtube.com/watch?v=ZfjpWOC5eoE
+*  Supporting to above To-Do: https://www.youtube.com/watch?v=ZGKaSboqKzk&t=307s
+  
 
 
 
