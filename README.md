@@ -14,7 +14,7 @@
 *  Kubernetes service type: https://www.baeldung.com/ops/kubernetes-service-types
 *  https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
    Article how the SSH works
-*  
+*  To-DO: https://www.youtube.com/watch?v=ZfjpWOC5eoE
 
 
 
