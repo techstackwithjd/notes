@@ -17,6 +17,7 @@
 *  To-DO: https://www.youtube.com/watch?v=ZfjpWOC5eoE
 *  Supporting to above To-Do: https://www.youtube.com/watch?v=ZGKaSboqKzk&t=307s
 *  How to amange secrest in Terraform : https://www.youtube.com/watch?v=3N0tGKwvBdA
+*  Good article for undertsandin ingress controller: https://aws.amazon.com/blogs/containers/exposing-kubernetes-applications-part-1-service-and-ingress-resources/
   
 
 
